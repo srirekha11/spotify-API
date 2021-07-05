@@ -1,0 +1,41 @@
+body {
+    background-image:url(/image/bg-music.jpg) !important; 
+    /* Center and scale the image nicely */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: azure;
+}
+.btn.dropdown-toggle  {
+    width:150px;
+    text-align:left;
+}
+.title{
+    margin-top: 19px;
+    text-align: center;
+    padding: 18px;
+}
+span.caret {
+    position: absolute;
+    left: 90%;
+    top: 45%;
+}
+label {
+    padding-top:5px;
+}
+.form-label {
+    padding-left:0px !important;
+}
+img {
+    width: 250px;
+    height: 200px;
+}
+.btn-success {
+    background-color: #3b7d4a!important;
+}
+.btn-success:hover {
+    background-color: #4daf64!important;
+}
+img.track {
+    border: 1px solid #8a8a8a;
+}
